@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: app2 
-          image: cepgstapacr.azurecr.io/app2
+          image: ceappacr.azurecr.io/app2
           ports:
           - containerPort: 8080
